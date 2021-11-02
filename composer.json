@@ -1,0 +1,13 @@
+{
+    "name": "kviron/gravity-froms",
+    "description": "gravity-froms plugin",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kviron",
+            "email": "kviron.web.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
